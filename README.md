@@ -71,8 +71,7 @@ endmodule
 **RTL Schematic**
 
 **Output Timing Waveform**
-![Screenshot 2024-12-07 162110](https://github.com/user-attachments/assets/038f2b71-d31f-4e3f-87eb-019708868052)
-![Screenshot 2024-12-07 163803](https://github.com/user-attachments/assets/5175957a-b4fb-4a7f-9623-46248c10048f)
+
 
 
 **Result:**
