@@ -67,10 +67,12 @@ and g3(w5,w1,b);
 and g4(w6,b,c);
 or g5(borr,w4,w5,w6);
 endmodule
-
+```
 **RTL Schematic**
 
 **Output Timing Waveform**
+![Screenshot 2024-12-07 162110](https://github.com/user-attachments/assets/87e5c1c7-f913-4307-8853-ec5b216b2388)
+![Screenshot 2024-12-07 163803](https://github.com/user-attachments/assets/3fd5cdbf-c139-4d58-ac89-a9163e30d145)
 
 
 
