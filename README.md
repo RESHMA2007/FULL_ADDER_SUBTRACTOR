@@ -1,4 +1,4 @@
-# FULL_ADDER_SUBTRACTOR
+.# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -44,7 +44,7 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:Reshma R RegisterNumber:2490406
 ```
 (i)FULL ADDER
 module fa(input a,b,c, output sum,carry);
